@@ -3,7 +3,7 @@ Name: Runaway
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
 Version: 0.0.4
 Architecture: iphoneos-arm
-Description: Show network speed under (or beside) time and can add seconds to the clock (iOS 13 only).
+Description: Show network speed in status bar (iOS 13 only).
 Maintainer: ned
 Author: ned
 Section: Tweaks

@@ -30,9 +30,9 @@
 }
 
 - (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
-    UIBarButtonItem *applyButton = [[UIBarButtonItem alloc] initWithTitle:@"Apply" style:UIBarButtonItemStylePlain target:self action:@selector(apply)];
-    self.navigationItem.rightBarButtonItem = applyButton;
+	[super viewWillAppear:animated];
+	UIBarButtonItem *applyButton = [[UIBarButtonItem alloc] initWithTitle:@"Apply" style:UIBarButtonItemStylePlain target:self action:@selector(apply)];
+	self.navigationItem.rightBarButtonItem = applyButton;
 
 }
 
