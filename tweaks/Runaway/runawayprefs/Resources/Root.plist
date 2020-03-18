@@ -9,6 +9,8 @@
 			<string>PSGroupCell</string>
 			<key>label</key>
 			<string>Runaway (0.0.4)</string>
+			<key>footerText</key>
+			<string>Thanks to @SarahH12099</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -134,7 +136,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>Font size 1</string>
+			<string>Font size (time)</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -160,7 +162,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>Font size 2</string>
+			<string>Font size (speed)</string>
 		</dict>
 		<dict>
 			<key>cell</key>
