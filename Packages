@@ -1,12 +1,12 @@
 Package: com.caesar3600.rainbow
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.caesar3600.rainbow_1.0.0_iphoneos-arm.deb
-Size: 4049168
-MD5sum: 726411cbb5a8739ff297d6d97215bafc
-SHA1: f0ae406bdf5e718cc734a788138f745a15dfa1ba
-SHA256: 2773b825f7c54e50f7008a33e06716bc87287af9f2b079cbfe7dd9683f61b469
+Filename: ./debs/com.caesar3600.rainbow_1.1.0_iphoneos-arm.deb
+Size: 4036832
+MD5sum: 96a4770f7cf34ee11723367c63c8bfe1
+SHA1: 834f00d0d3c91d963e5e066e6c4cfae983666dec
+SHA256: a81475fb4cd262592babc218f08b8f76454e6af5a294fc344e77df05de3ee473
 Section: Tweaks
 Priority: optional
 Author: rainbow
